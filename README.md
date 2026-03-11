@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mark and I'm a Software Developer, from the Philippines 🇵🇭</h2>
+<h2 align="left">Hi 👋! My name is Jae Mark and I'm a student at National University Studying Computer Science, from the Philippines 🇵🇭</h2>
 
 ###
 
