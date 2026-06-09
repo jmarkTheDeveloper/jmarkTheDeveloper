@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jmarkTheDeveloper&theme=dracula&hide_border=false" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=jmarkTheDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmarkTheDeveloper&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 <!-- Upload your avatar.png to this repo, then this will display automatically -->
