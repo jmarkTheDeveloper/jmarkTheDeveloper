@@ -2,6 +2,8 @@
 
 <p align="left">I'm a passionate developer who loves building practical applications that solve real-world problems. Currently sharpening my skills in Java, web development, and full-stack projects. Always learning, always building. 🚀</p>
 
+<p align="left">Aspiring <strong>FinTech Developer</strong> with a passion for building tools that make financial management accessible and meaningful. I'm driven to create software that helps people take control of their finances — from personal budgeting apps to broader financial technology solutions. 💸</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jmarkTheDeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmarkTheDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
