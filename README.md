@@ -35,7 +35,6 @@
 
 - 🎓 **Education**: Computer Science Student at **National University Philippines 🇵🇭**
 - ⚡ **Flagship Build**: Creator & Lead Architect of **[ClipVault AI](https://github.com/jmarkTheDeveloper/ClipVault-Desktop-AI-Clipping-)** — An autonomous desktop AI video clipping & virality studio.
-- 💸 **Passions**: **FinTech Solutions & AI Automation** — Developing accessible tools that simplify personal finance management and empower creator workflows.
 - 🛠️ **Current Focus**: Sharpening full-stack systems, desktop application architectures (Electron + Python/FastAPI), and high-performance Java applications.
 - 💡 **Philosophy**: *"Always learning, always building practical software that solves real-world problems."*
 
